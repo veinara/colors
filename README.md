@@ -11,8 +11,9 @@ LS_COLORS='____CONTENTS_OF_LS_COLORS_FILE_____'
 export LS_COLORS
 ```
 
-###Color guide
+### Color guide
 
+```
 0   = default colour
 1   = bold
 4   = underlined
@@ -47,4 +48,4 @@ export LS_COLORS
 104 = light blue background
 105 = light purple background
 106 = turquoise background
-
+```
